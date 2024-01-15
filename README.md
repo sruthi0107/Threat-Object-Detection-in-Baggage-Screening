@@ -15,9 +15,12 @@ on the dataset. Further, ensembles of these models were constructed with several
 
 ## Results
 - Some sample detection images are as follows:
-[SSD](results/ssd1)
-[FasterRCNN](results/fasterrcnn1)
-[Ensemble NMS](results/NMS)
+- SSD:
+  ![image](https://github.com/sruthi0107/Threat-Object-Detection-in-Baggage-Screening/assets/63657533/6e189e59-3ca5-4064-9ff4-fe5cf0095530)
+- Faster RCNN:
+  ![image](https://github.com/sruthi0107/Threat-Object-Detection-in-Baggage-Screening/assets/63657533/695476eb-6bc6-40b6-8d9f-014106748687)
+- Ensemble - NMS
+  ![image](https://github.com/sruthi0107/Threat-Object-Detection-in-Baggage-Screening/assets/63657533/4de88976-cb5d-4dc4-b95c-c01c1e1ee9d3)
 
 ## Acknowledgements
 - the ensemble-boxes package was used to perform the ensemble for NMS, Soft-NMS, NMW and WBF. Check out their repository [here](https://github.com/ZFTurbo/Weighted-Boxes-Fusion)
