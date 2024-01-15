@@ -1,0 +1,37 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>B0020_0002.png</filename>
+  <path>JPEGImages\B0020_0002.png</path>
+  <source>
+    <database>GDXRay</database>
+  </source>
+  <size>
+    <width>612</width>
+    <height>452</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>341</xmin>
+      <ymin>46</ymin>
+      <xmax>579</xmax>
+      <ymax>452</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Handgun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>98</xmin>
+      <ymin>105</ymin>
+      <xmax>342</xmax>
+      <ymax>310</ymax>
+    </bndbox>
+  </object>
+</annotation>

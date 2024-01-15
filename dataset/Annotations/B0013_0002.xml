@@ -1,0 +1,25 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>B0013_0002.png</filename>
+  <path>JPEGImages\B0013_0002.png</path>
+  <source>
+    <database>GDXRay</database>
+  </source>
+  <size>
+    <width>612</width>
+    <height>452</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Knife</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>41</xmin>
+      <ymin>56</ymin>
+      <xmax>436</xmax>
+      <ymax>340</ymax>
+    </bndbox>
+  </object>
+</annotation>

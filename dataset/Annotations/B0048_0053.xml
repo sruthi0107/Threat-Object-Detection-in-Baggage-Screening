@@ -1,0 +1,37 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>B0048_0053.png</filename>
+  <path>JPEGImages\B0048_0053.png</path>
+  <source>
+    <database>GDXRay</database>
+  </source>
+  <size>
+    <width>2688</width>
+    <height>2208</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Handgun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>547</xmin>
+      <ymin>1165</ymin>
+      <xmax>1655</xmax>
+      <ymax>1979</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>RazorBlade</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1987</xmin>
+      <ymin>483</ymin>
+      <xmax>2328</xmax>
+      <ymax>651</ymax>
+    </bndbox>
+  </object>
+</annotation>

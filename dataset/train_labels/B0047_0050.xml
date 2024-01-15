@@ -1,0 +1,37 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>B0047_0050.png</filename>
+  <path>JPEGImages\B0047_0050.png</path>
+  <source>
+    <database>GDXRay</database>
+  </source>
+  <size>
+    <width>2688</width>
+    <height>2208</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Shuriken</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>907</xmin>
+      <ymin>240</ymin>
+      <xmax>1347</xmax>
+      <ymax>929</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Handgun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1063</xmin>
+      <ymin>989</ymin>
+      <xmax>1398</xmax>
+      <ymax>2161</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,4 @@
+Shuriken 1254 841 2178 1655
+Shuriken 339 986 1122 1719
+RazorBlade 637 422 975 663
+RazorBlade 1154 488 1497 826

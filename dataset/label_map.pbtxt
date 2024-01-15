@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'Handgun'
+}
+
+item {
+    id: 2
+    name: 'Knife'
+}
+
+item {
+    id: 3
+    name: 'RazorBlade'
+}
+
+item {
+    id: 4
+    name: 'Shuriken'
+}

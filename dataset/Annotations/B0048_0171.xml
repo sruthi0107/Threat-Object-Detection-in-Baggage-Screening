@@ -1,0 +1,37 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>B0048_0171.png</filename>
+  <path>JPEGImages\B0048_0171.png</path>
+  <source>
+    <database>GDXRay</database>
+  </source>
+  <size>
+    <width>2688</width>
+    <height>2208</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>RazorBlade</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1844</xmin>
+      <ymin>747</ymin>
+      <xmax>2041</xmax>
+      <ymax>982</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>RazorBlade</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1583</xmin>
+      <ymin>382</ymin>
+      <xmax>1992</xmax>
+      <ymax>603</ymax>
+    </bndbox>
+  </object>
+</annotation>

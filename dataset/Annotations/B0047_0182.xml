@@ -1,0 +1,25 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>B0047_0182.png</filename>
+  <path>JPEGImages\B0047_0182.png</path>
+  <source>
+    <database>GDXRay</database>
+  </source>
+  <size>
+    <width>2688</width>
+    <height>2208</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Handgun</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1280</xmin>
+      <ymin>1384</ymin>
+      <xmax>1872</xmax>
+      <ymax>1925</ymax>
+    </bndbox>
+  </object>
+</annotation>

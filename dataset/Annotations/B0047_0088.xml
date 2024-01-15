@@ -1,0 +1,25 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>B0047_0088.png</filename>
+  <path>JPEGImages\B0047_0088.png</path>
+  <source>
+    <database>GDXRay</database>
+  </source>
+  <size>
+    <width>2688</width>
+    <height>2208</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>Shuriken</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>659</xmin>
+      <ymin>1068</ymin>
+      <xmax>1156</xmax>
+      <ymax>1927</ymax>
+    </bndbox>
+  </object>
+</annotation>

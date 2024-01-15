@@ -1,0 +1,37 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>B0047_0139.png</filename>
+  <path>JPEGImages\B0047_0139.png</path>
+  <source>
+    <database>GDXRay</database>
+  </source>
+  <size>
+    <width>2688</width>
+    <height>2208</height>
+    <depth>1</depth>
+  </size>
+  <object>
+    <name>RazorBlade</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>940</xmin>
+      <ymin>771</ymin>
+      <xmax>1129</xmax>
+      <ymax>1127</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Shuriken</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1313</xmin>
+      <ymin>1059</ymin>
+      <xmax>1948</xmax>
+      <ymax>1929</ymax>
+    </bndbox>
+  </object>
+</annotation>
